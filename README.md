@@ -7,7 +7,7 @@
 ## Requirements
 
 1. Team Members: Mary Angelique A. Abacajan, James McDougall
-2. App Name: MediTrack
+2. App Name: MyRx
 3. App Description (3-5 sentences):
     There are approximately 119 million people solely in the United States who take MEDICATION. Some medications require you to take x amount of times a day, what time you need to take a certain medication, or how much dosage you need. This app will help you track the date and time for your medication, appointments, and refill for your medication.
 4. Your #1 Customer (Who would use your app? Why now?)
